@@ -1,0 +1,4 @@
+Python 
+
+pip install requests
+pip install mysql-connector-python
